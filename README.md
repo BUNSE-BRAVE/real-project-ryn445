@@ -20,8 +20,7 @@ This is a respository for my Final Project at University of Regina CS455 class.
 
 
 ## Configuration instructions
- iOS 10.0 and Android 9.0 (API 28) or newer. 
-
+-Expo
 ## Installation instructions
 1. use Expo
 2. click new snack 
