@@ -38,7 +38,7 @@ scan QR code
 - There is a Search Bar and Some imformation about Regina weather from OpenweatherMap
 - user click on the search bar to search the city they want.
 
-![](https://github.com/BUNSE-BRAVE/real-project-ryn445/blob/b2faea4360ebb1bd65bab981cda23f83f24224ff/picture/1.jpg| width=10)
+![1](picture/1.jpg)
 
 - If user click on the search bar, and type the city name,such as shanghai
 
