@@ -1,0 +1,4 @@
+1. For mobile phone software, the opening animation of the software is something that designers need to consider.
+2. The weather forecast function is single, and one more function can be added, such as the dynamic weather icon
+3. Optimize the interface design
+4. Improve the function of the weather forecast and add the function of managing the weather of the selected city.
