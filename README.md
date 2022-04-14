@@ -33,7 +33,7 @@ This is a respository for my Final Project at University of Regina CS455 class.
 or
 scan QR code
 ![scan](picture/scan.png)
-no apk
+-no apk
 ## Operating instructions
 - There is a Search Bar and Some imformation about Regina weather from OpenweatherMap
 - user click on the search bar to search the city they want.
