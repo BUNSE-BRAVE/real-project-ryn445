@@ -54,7 +54,7 @@ If the user wants to automatically load local weather, the user can press the bl
 The second page will load the local time according to the time zone, display some weather information of the day, and at the bottom, there is a scroll bar that can display the weather icon for the next seven days and the temperature of the day.
 ![7](picture/7.png)
 ## Manifest
-------
+```
 ```App.js ------>Home Navigation
 --weathersearchscreen.js ------>Form a home page with a search function and display the results
 --weathersearchdetail.js
@@ -65,7 +65,8 @@ The second page will load the local time according to the time zone, display som
 --ForecastScroll.js
 -- README.md ----> my Readme.
 ```Todolist ----> some fuctions i could add
--------
+```
+
 ## Copyright information
 @ Ruijie Yang, University of Regina
 ## Contact information
