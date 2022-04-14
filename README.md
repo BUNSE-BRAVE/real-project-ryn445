@@ -6,6 +6,8 @@ This is a respository for my Final Project at University of Regina CS455 class.
 
 
 
+
+
 ## Menu
 
 1. [Configuration instructions](#Configuration-instructions)
@@ -20,12 +22,18 @@ This is a respository for my Final Project at University of Regina CS455 class.
 
 
 ## Configuration instructions
--Expo
+-Expo 
+-android 
+-ios
 ## Installation instructions
 1. use Expo
 2. click new snack 
 3.Select import git repository 
 4. Copy & Paste the link：https://github.com/BUNSE-BRAVE/real-project-ryn445
+or
+scan QR code
+![scan](picture/scan.png)
+no apk
 ## Operating instructions
 - There is a Search Bar and Some imformation about Regina weather from OpenweatherMap
 - user click on the search bar to search the city they want.
@@ -41,15 +49,22 @@ This is a respository for my Final Project at University of Regina CS455 class.
 - If the user enters an incorrect city name, the user can only re-enter it
 ![4](picture/4.jpg)
 ![5](picture/5.jpg)
-
-
+If the user wants to automatically load local weather, the user can press the blue button. The home page will jump to another screen.
+![6](picture/6.png)
+The second page will load the local time according to the time zone, display some weather information of the day, and at the bottom, there is a scroll bar that can display the weather icon for the next seven days and the temperature of the day.
+![7](picture/7.png)
 ## Manifest
 
-```
---
---
-- README.md ----> The file you are reading right now.
-```
+```App.js ------>Home Navigation
+--weathersearchscreen.js ------>Form a home page with a search function and display the results
+--weathersearchdetail.js
+--weathersearchBar.js
+
+--Forecastscreen.js------>These 3 JS files constitute the automatic positioning location and display the weather forecast page for the next seven days.
+--Forecastdetail.js
+--ForecastScroll.js
+-- README.md ----> my Readme.
+```Todolist ----> some fuctions i could add
 
 ## Copyright information
 @ Ruijie Yang, University of Regina
@@ -57,10 +72,11 @@ This is a respository for my Final Project at University of Regina CS455 class.
 - Ruijie Yang ryn445@uregina.ca
 ## Bug list
 -The city name should not be too long
+-403 error could be happen
 ## Troubleshooting tips
 Please send an email to me if you have any trouble
 ## Credits and acknowledgments
 -Instructor: Trevor Tomesh
 -React Native
 -expo
--and many other people
+-and the teacher from youtube
