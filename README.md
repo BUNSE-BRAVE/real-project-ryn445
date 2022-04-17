@@ -80,4 +80,4 @@ Please send an email to me if you have any trouble
 -Instructor: Trevor Tomesh.
 -React Native.
 -expo.
--and the teacher from youtube.
+
