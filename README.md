@@ -3,6 +3,7 @@
 ---
 
 This is a respository for my Final Project at University of Regina CS455 class.
+This is a simple weather forecast, it has 2 different interfaces. one of the interfaces can display various local weather information based on the searched city. Another interface can display the time of the current city and the weather information of the user's current city according to the location of the user's current city.
 
 
 
@@ -57,12 +58,12 @@ The second page will load the local time according to the time zone, display som
 ```
 ```App.js ------>Home Navigation
 --weathersearchscreen.js ------>Form a home page with a search function and display the results
---weathersearchdetail.js
---weathersearchBar.js
+--weathersearchdetail.js ------>Displays temperature, wind speed, weather, and other data from OpenWeather
+--weathersearchBar.js ----Search component
 
---Forecastscreen.js------>These 3 JS files constitute the automatic positioning location and display the weather forecast page for the next seven days.
---Forecastdetail.js
---ForecastScroll.js
+--Forecastscreen.js------>The page constitutes the automatic positioning location and displays the weather forecast page for the next seven days.
+--Forecastdetail.js-------> Displays current time, current location, and current weather information.
+--ForecastScroll.js ------>The weather and temperature of the next 7 are displayed in the slider.
 -- README.md ----> my Readme.
 ```Todolist ----> some fuctions i could add
 ```
