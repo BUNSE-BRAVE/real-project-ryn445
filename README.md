@@ -75,10 +75,11 @@ The second page will load the local time according to the time zone, display som
 ## Bug list
 - The city name should not be too long.
 - 403 error could be happen.
+- When using the web, there may be problems with the interface style
 ## Troubleshooting tips
 Please send an email to me if you have any trouble
 ## Credits and acknowledgments
--Instructor: Trevor Tomesh.
--React Native.
--expo.
-
+- Instructor: Trevor Tomesh.
+- React Native.
+- expo.
+- YouTube
