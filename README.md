@@ -23,9 +23,9 @@ This is a simple weather forecast, it has 2 different interfaces. one of the int
 
 
 ## Configuration instructions
--Expo 
--android 
--ios
+- Expo 
+- android 
+- ios
 ## Installation instructions
 1. use Expo
 2. click new snack 
@@ -34,7 +34,8 @@ This is a simple weather forecast, it has 2 different interfaces. one of the int
 or
 scan QR code
 ![scan](picture/scan.png)
--no apk
+- no apk
+- if you want to use expo-cli，please follow  https://reactnavigation.org/docs/getting-started/
 ## Operating instructions
 - There is a Search Bar and Some imformation about Regina weather from OpenweatherMap
 - user click on the search bar to search the city they want.
