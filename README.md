@@ -73,8 +73,8 @@ The second page will load the local time according to the time zone, display som
 ## Contact information
 - Ruijie Yang ryn445@uregina.ca
 ## Bug list
--The city name should not be too long.
--403 error could be happen.
+- The city name should not be too long.
+- 403 error could be happen.
 ## Troubleshooting tips
 Please send an email to me if you have any trouble
 ## Credits and acknowledgments
